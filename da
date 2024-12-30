@@ -1,0 +1,36 @@
+<article class="post1">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROG36__UXgOYO0B-_z6PQIdI-t5nmwyE02Fw&s" alt="">
+        <h2>Lorem, ipsum dolor.</h2>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error explicabo eos architecto repellat et aliquid
+            dolore doloremque quis illo ipsa praesentium quasi dignissimos ab recusandae vel fuga ullam, rem voluptate
+            minus quo dolorem asperiores sapiente hic porro! Molestias necessitatibus iure asperiores provident quam
+            similique nesciunt.</p>
+        <button>Click</button>
+    </article>
+
+    <article class="post2">
+        <img src="https://static01.nyt.com/images/2020/02/12/opinion/12Ellis/12Ellis-videoSixteenByNineJumbo1600.jpg"
+            alt="">
+        <h2>Lorem, ipsum dolor.</h2>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error explicabo eos architecto repellat et aliquid
+            dolore doloremque quis illo ipsa praesentium quasi dignissimos ab recusandae vel fuga ullam, rem voluptate
+            minus quo dolorem asperiores sapiente hic porro! Molestias necessitatibus iure asperiores provident quam
+            similique nesciunt.</p>
+        <button>Click</button>
+    </article>
+
+    <article class="post3 button-85">
+        <img src="https://content1.rozetka.com.ua/goods/images/big_tile/343318879.jpg" alt="Окуляри WR">
+        <h2 class="rainbow rainbow_text_animated"> WR Окуляри</h2>
+        <p class="rainbow rainbow_text_animated" >Основная статья: Шлем виртуальной реальности
+            Современные шлемы виртуальной реальности (англ. HMD-display) представляют собой скорее очки, нежели шлем, и
+            содержат один или несколько дисплеев, на которые выводятся изображения для левого и правого глаза, систему
+            линз для корректировки геометрии изображения, а также систему трекинга, отслеживающую ориентацию устройства
+            в пространстве. Как правило, системы трекинга для шлемов виртуальной реальности разрабатываются на основе
+            гироскопов, акселерометров и магнитометров. Для систем этого типа важен широкий угол обзора, точность работы
+            системы трекинга при отслеживании наклонов и поворотов головы пользователя, а также минимальная задержка
+            между детектированием изменения положения головы в пространстве и выводом на дисплеи соответствующего
+            изображения.</p>
+        <button class="button-85"> Click WR</button>
+    </article>
+</body>
